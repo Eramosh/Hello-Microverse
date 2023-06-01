@@ -1,3 +1,3 @@
 # .gitignore
 node_modules/
-git rm --cached '*.md'
+test.md
